@@ -4,12 +4,9 @@ namespace XHazel {
 
 	public:
 		Application();
-		virtual ~Application();
-
+		~Application();
+		void Run();
 
 	};
-
-
-
 
 }

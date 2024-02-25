@@ -1,12 +1,10 @@
 namespace XHazel {
 
-
 	__declspec(dllimport) void Print();
 
-
 }
-void main() {
+void main()
+{
 
 	XHazel::Print();
-
 }
