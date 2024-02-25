@@ -1,2 +1,1 @@
-# XHazel
-XHazel Engine
+Open Engine
