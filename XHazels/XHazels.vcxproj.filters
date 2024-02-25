@@ -18,9 +18,18 @@
     <ClCompile Include="src\Test.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="src\XHazel\Application.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Test.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\XHazel\Application.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\XHazel.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

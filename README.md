@@ -1,2 +1,1 @@
-# XHazel
 Open Engine
