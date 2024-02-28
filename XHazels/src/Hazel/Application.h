@@ -1,8 +1,8 @@
 #pragma once
 
 #include "cores.h"
-namespace XHazel {
-	class XHAZEL_API Application
+namespace Hazel {
+	class HAZEL_API Application
 	{
 	public:
 		Application();

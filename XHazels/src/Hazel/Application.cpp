@@ -2,7 +2,7 @@
 
 
 
-namespace XHazel {
+namespace Hazel {
 
 	Application::Application()
 	{

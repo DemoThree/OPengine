@@ -1,6 +1,6 @@
 
-#include "XHazel.h"
-class BoxApp :public XHazel::Application
+#include "Hazel.h"
+class BoxApp :public Hazel::Application
 {
 public:
 	BoxApp();
