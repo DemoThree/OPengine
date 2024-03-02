@@ -1,5 +1,22 @@
 ﻿  Application.cpp
+<<<<<<< HEAD
+  Log.cpp
+e:\gameengine\opengine\hazel\hazel\vendor\spdlog\include\spdlog\fmt\bundled\format-inl.h(1154): warning C4307: “*”: 整型常量溢出
+e:\gameengine\opengine\hazel\hazel\vendor\spdlog\include\spdlog\fmt\bundled\format-inl.h(1186): warning C4307: “*”: 整型常量溢出
+e:\gameengine\opengine\hazel\hazel\vendor\spdlog\include\spdlog\fmt\bundled\format-inl.h(1207): warning C4307: “*”: 整型常量溢出
+e:\gameengine\opengine\hazel\hazel\src\hazel\log.h(19): warning C4251: “Hazel::Log::s_CoreLogger”: class“std::shared_ptr<spdlog::logger>”需要有 dll 接口由 class“Hazel::Log”的客户端使用
+  e:\gameengine\opengine\hazel\hazel\vendor\spdlog\include\spdlog\details\registry.h(37): note: 参见“std::shared_ptr<spdlog::logger>”的声明
+e:\gameengine\opengine\hazel\hazel\src\hazel\log.h(20): warning C4251: “Hazel::Log::s_ClientLogger”: class“std::shared_ptr<spdlog::logger>”需要有 dll 接口由 class“Hazel::Log”的客户端使用
+  e:\gameengine\opengine\hazel\hazel\vendor\spdlog\include\spdlog\details\registry.h(37): note: 参见“std::shared_ptr<spdlog::logger>”的声明
+  Test.cpp
+  正在生成代码...
+    正在创建库 ..\bin\Debug-windows-x86_64\Hazel\Hazel.lib 和对象 ..\bin\Debug-windows-x86_64\Hazel\Hazel.exp
+  Hazel.vcxproj -> E:\GameEngine\OPengine\Hazel\Hazel\..\bin\Debug-windows-x86_64\Hazel\Hazel.dll
+E:\Visual Studio\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: 命令“IF EXIST ..\bin\Debug-windows-x86_64\Hazel\Hazel.dll\ (xcopy /Q /E /Y /I ..\bin\Debug-windows-x86_64\Hazel\Hazel.dll ..\bin\Debug-windows-x86_64\SandBox > nul) ELSE (xcopy /Q /Y /I ..\bin\Debug-windows-x86_64\Hazel\Hazel.dll ..\bin\Debug-windows-x86_64\SandBox > nul)
+E:\Visual Studio\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: :VCEnd”已退出，代码为 2。
+=======
   Test.cpp
   正在生成代码...
     正在创建库 E:\GameEngine\OPengine\Hazel\\bin\Debug-x64\Hazel\Hazel.lib 和对象 E:\GameEngine\OPengine\Hazel\\bin\Debug-x64\Hazel\Hazel.exp
   Hazel.vcxproj -> E:\GameEngine\OPengine\Hazel\\bin\Debug-x64\Hazel\Hazel.dll
+>>>>>>> 993e6e81322b76f645ed61a3e2342159eec8b4b8

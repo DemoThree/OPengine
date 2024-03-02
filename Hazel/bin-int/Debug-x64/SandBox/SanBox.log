@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+﻿E:\GameEngine\OPengine\Hazel\SanBox\SanBox.vcxproj : error MSB4025: 未能加载项目文件。未能找到路径“E:\GameEngine\OPengine\Hazel\SanBox\SanBox.vcxproj”的一部分。
+=======
 ﻿  SanBoxApp.cpp
   SanBox.vcxproj -> E:\GameEngine\OPengine\Hazel\\bin\Debug-x64\SandBox\SandBox.exe
+>>>>>>> 993e6e81322b76f645ed61a3e2342159eec8b4b8
