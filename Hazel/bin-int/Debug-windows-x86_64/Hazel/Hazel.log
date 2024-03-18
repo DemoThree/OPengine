@@ -1,5 +1,4 @@
-﻿E:\Visual Studio\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : 文件“e:\gameengine\opengine\hazel\bin-int\debug-windows-x86_64\hazel\log.obj”正由另一进程使用，因此该进程无法访问此文件。
-  Application.cpp
+﻿  Application.cpp
   Log.cpp
 e:\gameengine\opengine\hazel\hazel\vendor\spdlog\include\spdlog\fmt\bundled\format-inl.h(1154): warning C4307: “*”: 整型常量溢出
 e:\gameengine\opengine\hazel\hazel\vendor\spdlog\include\spdlog\fmt\bundled\format-inl.h(1186): warning C4307: “*”: 整型常量溢出
